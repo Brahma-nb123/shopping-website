@@ -1,0 +1,5 @@
+create-react-app
+react carasole-     npm i react-alice-carousel     ( https://www.npmjs.com/package/react-alice-carousel  ),  https://maxmarinich.github.io/react-alice-carousel/
+
+MUI ICONS (https://mui.com/material-ui/material-icons/?query=arrow&selected=ArrowBackIos)
+
