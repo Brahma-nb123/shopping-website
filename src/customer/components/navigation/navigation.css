@@ -1,4 +1,5 @@
 @media (min-width: 1024px)
 .lg\:max-w-md {
     max-width: 48rem !important;
+    padding: auto;
 }
